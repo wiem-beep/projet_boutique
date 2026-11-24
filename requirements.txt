@@ -5,6 +5,10 @@ langchain-core
 langchain-community
 langgraph
 langchain-openai
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
 python-dotenv
 sqlalchemy
 pandas
+pypdf
